@@ -20,6 +20,11 @@ A production-ready Retrieval Augmented Generation (RAG) chatbot that answers que
 - document_ingestion.py - PDF parsing and chunking
 - embeddings.py - Vector embedding generation
 - retriever.py - Semantic search and retrieval
-- chatbot.py - Main chatbot inter
+- chatbot.py - Main chatbot interface
+
+## 👩‍💻 Author
+Kaviya Dharshini | Generative AI Developer
 kaviya.mahanadhi@gmail.com
+
+
   
